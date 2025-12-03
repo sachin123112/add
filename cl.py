@@ -36,5 +36,5 @@ while option != 0:
         print("select corret option")
         continue
     
-    option=int(input("select option "))
+    #option=int(input("select option "))
 
