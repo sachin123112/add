@@ -1,8 +1,9 @@
 print("----------cal----------")
 
-a=int(input("ENTER A-VALUE :"))
-b=int(input("ENTER B-VALUE :"))
-
+#a=int(input("ENTER A-VALUE :"))
+#b=int(input("ENTER B-VALUE :"))
+a=10
+b=20
 
 print("select option to operation \n 1.+ \n 2.- \n 3.* \n 4./ \n 5.> \n 6.< \n 7.%\n 8.0")
 option=int(input("select option "))
